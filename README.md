@@ -33,9 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
-## 🔖 Layout
+## 🔖 Aplicação
 
-Você pode visualizar o layout do projeto através [desse link](https://boring-shockley-6e531f.netlify.app/#). 
+Você pode visualizar o projeto através [desse link](https://boring-shockley-6e531f.netlify.app/#). 
 
 ## :memo: Licença
 
