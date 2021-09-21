@@ -35,7 +35,7 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 
 ## 🔖 Aplicação
 
-Você pode visualizar o projeto através [desse link](https://boring-shockley-6e531f.netlify.app/#). 
+Você pode visualizar o projeto através [desse link](https://finandev.netlify.app). 
 
 ## :memo: Licença
 
